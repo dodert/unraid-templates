@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <CommunityApplications>
   <Profile>Unraid templates by dodert: self-hosted apps such as Game Library Manager (video game and hardware collection catalogue) and Accounts Balance Tracker (account balances over time). Report problems or ask for help in each project's GitHub issues.</Profile>
-  <Icon>https://raw.githubusercontent.com/dodert/unraid-templates/main/icon.png</Icon>
+  <Icon>https://raw.githubusercontent.com/dodert/unraid-templates/main/game-library-manager.png</Icon>
   <WebPage>https://github.com/dodert/unraid-templates</WebPage>
   <DonateLink>https://ko-fi.com/dodert</DonateLink>
   <DonateText>Support development on Ko-fi</DonateText>
