@@ -1,0 +1,10 @@
+# Weekly PR to keep the GitHub Actions (pinned by commit) up to date, grouped in one PR.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    groups:
+      actions:
+        patterns: ["*"]
